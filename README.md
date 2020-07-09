@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Take a look at the repositories!
+
+[My Linkedin 💼](https://www.linkedin.com/in/reinaldo-porte-peres-943523182/)
 <!--
 **reinaldoperes/reinaldoperes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
