@@ -7,7 +7,7 @@ Take a look at the repositories!
 <div>
   <a align="center" href="https://github.com/reinaldoperes">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=reinaldoperes&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&theme=tokyonight"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lukones&layout=compact&custom_title=Most used languages&langs_count=10&include_all_commits=true&hide_progress=true&hide_border=false&theme=tokyonight"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reinaldoperes&layout=compact&custom_title=Most used languages&langs_count=10&include_all_commits=true&hide_progress=true&hide_border=false&theme=tokyonight"/>
 
 </div>
 
