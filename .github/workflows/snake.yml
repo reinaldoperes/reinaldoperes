@@ -18,7 +18,7 @@ on:
         - name: generate snake.svg
           uses: Platane/snk@master
           with:
-            github_user_name: ${{ github.repository_owner }}
+            github_user_name: reinaldoperes
             outputs: dist/snake.svg
 
 
