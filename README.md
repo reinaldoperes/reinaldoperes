@@ -13,7 +13,7 @@ Take a look at the repositories!
 </div>
 
 ###
-<img href="https://github.com/reinaldoperes/reinaldoperes/blob/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/reinaldoperes/reinaldoperes/blob/output/github-contribution-grid-snake.gif)
 
 ###
 <div align="left">
